@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "internet_permission_reason",
+      "value": "需要网络权限来获取农业文章数据"
+    },
+    {
+      "name": "location_permission_reason",
+      "value": "需要位置权限来获取当地天气"
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    }
+  ]
+}
